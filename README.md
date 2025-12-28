@@ -1,4 +1,5 @@
-# Medication Alternative & Side Effects Checker
+# USMedication Tools – Medication Lookup, Alternative & Side Effects Checker
+
 
 This project powers a medication tool used on **usmedication.com**.
 
@@ -7,6 +8,14 @@ It helps users:
 - Check equivalent brands
 - Understand possible side effects
 - Compare medicines using reliable data sources
+
+## Official Website & Live Tools
+
+The following links demonstrate the plugin in real-world usage on a live production website:
+- 🌐 Website: https://usmedication.com
+- 🔍 Medication Lookup Tool: https://usmedication.com/medication-lookup-tool/
+- 🔁 Alternate Medication Brand Finder: https://usmedication.com/alternative-medication-brand-finder/
+- ⚠️ Side Effects & Safety Checker: https://usmedication.com/medication-side-effects-checker/
 
 ## Overview
 The tool is designed to assist users with medication-related information by referencing official US health institution data and APIs.  
